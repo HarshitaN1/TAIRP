@@ -1,0 +1,69 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:wheat;
+    font-family:Monotype corsiva;
+}
+#icon{
+    height:50px;
+    width:100%;
+    display:inline-flex;
+    background-color:beige;
+    padding:15px;
+    text-decoration:none;
+    margin:15px;
+}
+#name{
+    opacity:0.7;
+    box-shadow:10px 5px 5px 10px black;
+    font-size:80px;
+    padding-left:280px;
+    font-family:Monotype corsiva;
+    color:red;
+    margin:0%;
+}
+i{
+    margin-left:160px;
+}
+#select{
+    height:100px;
+    width:100%;
+    display:inline-flex;
+    background-color:#215245e8;
+    padding:15px;
+}
+h3{
+    margin-left:100px;
+    margin-right:90px;
+    text-decoration:none;
+}
+a{
+    text-decoration:none;
+    color:red;
+}
+img{
+    margin:10px;
+    padding-left:200px;
+    height:400px;
+    width:500px;
+}
+.Recipe{
+    font-size:40px;
+    font-family:Monotype corsiva;
+    color:black;
+}
+.nav{
+    color:black;
+}
+li{
+    font-size:20px;
+}
+ul{
+    box-shadow:10px 5px 5px 10px black;
+    font-family:Monotype corsiva;
+    font-size:20px;
+}
+p{
+    font-size:30px;
+    font-family:Monotype corsiva;
+}
